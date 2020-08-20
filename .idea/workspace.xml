@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5206003b-eae1-4f63-bf1f-e79b8100afca" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/questions/VericarUno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tasks/BuscarHistoria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Prueba1/Run/RunnerPruebados.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Prueba1/definitions/Definition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/a/1a6ea11cf9187dc0855ffcfdd29aceee5df338f5" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/a/1a6ea11cf9187dc0855ffcfdd29aceee5df338f5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/7/c7073b3d7200c31fec4a4c7b9f2e5536120fb10f" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/7/c7073b3d7200c31fec4a4c7b9f2e5536120fb10f" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/b/cba2a983d0e24a7ee97a95bcb3b97432ebfa7f90" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/b/cba2a983d0e24a7ee97a95bcb3b97432ebfa7f90" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/questions/Vericar.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/questions/Vericar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/tasks/Buscar.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/tasks/Buscar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/userinterface/BusquedaPa.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/userinterface/BusquedaPa.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/userinterface/Tocumenpanama.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/userinterface/Tocumenpanama.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/Prueba/Run/RunnerPrueba.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/Prueba/Run/RunnerPrueba.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/Prueba/definitions/Definition.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/Prueba/definitions/Definition.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/test/Features/Robot.feature" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/test/Features/Robot.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/questions/Vericar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/questions/Vericar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tasks/Buscar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tasks/Buscar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/userinterface/BusquedaPa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/userinterface/BusquedaPa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/userinterface/Tocumenpanama.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/userinterface/Tocumenpanama.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Prueba/Run/RunnerPrueba.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Prueba/Run/RunnerPrueba.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Prueba/definitions/Definition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Prueba/definitions/Definition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Features/Robot.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/Features/Robot.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/56e9749a86122d080739d996cce710a81e8186dab8b3c34432ca550e638f41eb.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/56e9749a86122d080739d996cce710a81e8186dab8b3c34432ca550e638f41eb.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/56e9749a86122d080739d996cce710a81e8186dab8b3c34432ca550e638f41eb.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/56e9749a86122d080739d996cce710a81e8186dab8b3c34432ca550e638f41eb.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/56e9749a86122d080739d996cce710a81e8186dab8b3c34432ca550e638f41eb_screenshots.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/56e9749a86122d080739d996cce710a81e8186dab8b3c34432ca550e638f41eb_screenshots.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-56e9749a86122d080739d996cce710a81e8186dab8b3c34432ca550e638f41eb.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-56e9749a86122d080739d996cce710a81e8186dab8b3c34432ca550e638f41eb.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/browser-chrome.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/browser-chrome.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1fvabiCyWwBVs2JUjeSy0e2tfv3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jairo\Desktop\pruebas\src\test\resources" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="tasks" />
+      <recent name="questions" />
+      <recent name="userinterface" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jairo\Desktop\pruebas\src\test\java\Prueba1" />
+      <recent name="C:\Users\jairo\Desktop\pruebas\src\test\java" />
+      <recent name="C:\Users\jairo\Desktop\pruebas\src\test\resources\webdrive" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.Prueba verificar pdf">
+    <configuration name="Runner" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;Runner.Runner&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="RunnerPrueba" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;Prueba1.Run.RunnerPrueba&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="RunnerPruebados" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;Prueba1.Run.RunnerPruebados&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Prueba Verificar Historia" type="JUnit" factoryName="JUnit">
+      <module name="pruebas.test" />
+      <shortenClasspath name="CLASSPATH_FILE" />
+      <useClassPathOnly />
+      <option name="PACKAGE_NAME" value="Prueba1.Run" />
+      <option name="MAIN_CLASS_NAME" value="Prueba1.Run.RunnerPruebados" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Prueba verificar pdf" type="JUnit" factoryName="JUnit">
+      <module name="pruebas.test" />
+      <shortenClasspath name="CLASSPATH_FILE" />
+      <useClassPathOnly />
+      <option name="PACKAGE_NAME" value="Prueba.Run" />
+      <option name="MAIN_CLASS_NAME" value="Prueba.Run.RunnerPrueba" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Gradle.RunnerPrueba" />
+      <item itemvalue="Gradle.RunnerPruebados" />
+      <item itemvalue="Gradle.Runner" />
+      <item itemvalue="JUnit.Prueba Verificar Historia" />
+      <item itemvalue="JUnit.Prueba verificar pdf" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.RunnerPruebados" />
+        <item itemvalue="Gradle.RunnerPrueba" />
+        <item itemvalue="Gradle.RunnerPrueba" />
+        <item itemvalue="Gradle.RunnerPrueba" />
+        <item itemvalue="Gradle.Runner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5206003b-eae1-4f63-bf1f-e79b8100afca" name="Default Changelist" comment="" />
+      <created>1597101092896</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597101092896</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="335" y="44" key="#Project_Structure" timestamp="1597929768011">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="392" y="88" key="#Project_Structure/-1366.0.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1597802509865" />
+    <state x="335" y="44" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1597929768011" />
+    <state x="519" y="116" key="#RunnerPrueba" timestamp="1597103577668">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="519" y="116" key="#RunnerPrueba/-1366.0.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1597103577668" />
+    <state x="397" y="122" key="#Unnamed" timestamp="1597103671112">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="397" y="122" key="#Unnamed/-1366.0.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1597103671112" />
+    <state x="280" y="30" key="#Unnamed_(1)" timestamp="1597931104652">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="280" y="30" key="#Unnamed_(1)/0.0.1366.728@0.0.1366.728" timestamp="1597931104652" />
+    <state x="217" y="71" width="1002" height="585" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597932362665">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="254" y="84" width="1093" height="691" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1366.0.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1597103793291" />
+    <state x="217" y="71" width="1002" height="585" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1597932362665" />
+    <state x="517" y="118" key="#com.intellij.ide.util.MemberChooser" timestamp="1597931944530">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="605" y="139" key="#com.intellij.ide.util.MemberChooser/-1366.0.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1597801844153" />
+    <state x="517" y="118" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1597931944530" />
+    <state x="452" y="174" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1597931551435">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="530" y="205" key="#com.intellij.ide.util.PackageChooserDialog/-1366.0.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1597801984559" />
+    <state x="452" y="174" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1597931551435" />
+    <state x="452" y="180" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1597931084813">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="529" y="213" key="#com.intellij.ide.util.TreeClassChooserDialog/-1366.0.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1597103665649" />
+    <state x="452" y="180" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1597931084813" />
+    <state x="514" y="355" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1597102183204">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="514" y="355" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/-1366.0.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1597102183204" />
+    <state x="596" y="301" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1597102167208">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="596" y="301" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/-1366.0.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1597102167208" />
+    <state x="535" y="191" key="EnvironmentVariablesDialog" timestamp="1597102431603">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="535" y="191" key="EnvironmentVariablesDialog/-1366.0.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1597102431603" />
+    <state x="463" y="178" key="FileChooserDialogImpl" timestamp="1597929124437">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="178" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1597929124437" />
+    <state width="1323" height="222" key="GridCell.Tab.0.bottom" timestamp="1597932416204">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1557" height="222" key="GridCell.Tab.0.bottom/-1366.0.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1597802550290" />
+    <state width="1323" height="222" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1597932416204" />
+    <state width="1323" height="222" key="GridCell.Tab.0.center" timestamp="1597932416204">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1557" height="222" key="GridCell.Tab.0.center/-1366.0.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1597802550289" />
+    <state width="1323" height="222" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1597932416204" />
+    <state width="1323" height="222" key="GridCell.Tab.0.left" timestamp="1597932416204">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1557" height="222" key="GridCell.Tab.0.left/-1366.0.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1597802550288" />
+    <state width="1323" height="222" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1597932416204" />
+    <state width="1323" height="222" key="GridCell.Tab.0.right" timestamp="1597932416204">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1557" height="222" key="GridCell.Tab.0.right/-1366.0.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1597802550289" />
+    <state width="1323" height="222" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1597932416204" />
+    <state width="1557" height="276" key="GridCell.Tab.1.bottom" timestamp="1597102990529">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.1.bottom/-1366.0.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1597102990529" />
+    <state width="1557" height="276" key="GridCell.Tab.1.center" timestamp="1597102990529">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.1.center/-1366.0.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1597102990529" />
+    <state width="1557" height="276" key="GridCell.Tab.1.left" timestamp="1597102990529">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.1.left/-1366.0.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1597102990529" />
+    <state width="1557" height="276" key="GridCell.Tab.1.right" timestamp="1597102990529">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.1.right/-1366.0.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1597102990529" />
+    <state x="423" y="214" key="com.intellij.ide.util.TipDialog" timestamp="1597847086084">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="495" y="253" key="com.intellij.ide.util.TipDialog/-1366.0.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1597170276284" />
+    <state x="423" y="214" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1597847086084" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/pruebas$RunnerPrueba.ic" NAME="RunnerPrueba Coverage Results" MODIFIED="1597103569341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

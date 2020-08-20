@@ -1,0 +1,11 @@
+
+l
+java:S1192"ODefine a constant instead of duplicating this literal "click en donde" 3 times.(¶±·Ş8“ñ·À.
+p
+java:S1128	"NRemove this unused import 'org.openqa.selenium.support.ui.ExpectedConditions'.(û€Èéúÿÿÿÿ8„Úö¶À.
+m
+java:S1128"KRemove this unused import 'net.serenitybdd.core.annotations.findby.FindBy'.(¥½ç­ÿÿÿÿÿ8å¼ù¶À.
+;
+java:S1128"Remove this duplicated import.(ÿŠŞ›8å¼ù¶À.
+j
+java:S1128"HRemove this unused import 'net.serenitybdd.core.pages.WebElementFacade'.(á¢èŞúÿÿÿÿ8å¼ù¶À.

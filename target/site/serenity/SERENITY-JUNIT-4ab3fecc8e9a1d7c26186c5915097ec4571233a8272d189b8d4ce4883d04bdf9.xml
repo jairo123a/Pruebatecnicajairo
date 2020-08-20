@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Ingresar al sitio web  y realizar dos automatizaciones" skipped="0" tests="1" time="125.67" timestamp="2020-08-20 09:06:59"><testcase name="Ingresar al sitio web y verificar un pdf"><error message="Expected condition failed: waiting for By.xpath: //*[@id='title']/span to be displayed (tried for 100 second(s) with 100 milliseconds interval)&#10;Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'&#10;System info: host: 'DESKTOP-38Q90CF', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_111'&#10;Driver info: driver.version: unknown" type="java.lang.AssertionError">Expected condition failed: waiting for By.xpath: //*[@id='title']/span to be displayed (tried for 100 second(s) with 100 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-38Q90CF', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_111'
+Driver info: driver.version: unknown</error><system-err>Expected condition failed: waiting for By.xpath: //*[@id='title']/span to be displayed (tried for 100 second(s) with 100 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-38Q90CF', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_111'
+Driver info: driver.version: unknown&#13;
+Prueba.definitions.Definition.verificarElPdfTecto(Definition.java:35)&#13;
+✽.verificar el pdf tecto"politicas-objetos-extraviados.pdf"(src/test/resources/Features/Robot.feature:8)&#13;
+</system-err></testcase></testsuite>
